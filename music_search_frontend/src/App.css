@@ -1,0 +1,7 @@
+.App { padding:30px; font-family: Arial; }
+.form input { display:block; margin:6px 0; padding:8px; width:300px; }
+.form button { padding:8px 15px; }
+.search input { padding:8px; width:250px; }
+.search button { padding:8px 15px; margin-left:8px; }
+.results { margin-top:20px; }
+.card { border:1px solid #ccc; margin:8px; padding:10px; }
